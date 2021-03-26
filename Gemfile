@@ -13,6 +13,9 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
+gem 'dotenv-rails'
+gem 'omniauth-facebook'
+gem 'omniauth'
 gem 'thin'
 
 # Use jquery as the JavaScript library
